@@ -15,3 +15,5 @@ Iterative Optimization: Conducted four rounds of model training, fine-tuning lea
 Regularization Techniques: Implemented Weight Decay (Regularization) to mitigate overfitting, successfully lowering validation loss and enabling the model to generalize patterns for real-world application.
 
 Business Intelligence: Authored a market feasibility report identifying target customers in the smart-home and industrial cleaning sectors, focusing on risk mitigation and operational efficiency.
+
+Created Classes and Obejects using python
