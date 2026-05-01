@@ -16,4 +16,10 @@ Regularization Techniques: Implemented Weight Decay (Regularization) to mitigate
 
 Business Intelligence: Authored a market feasibility report identifying target customers in the smart-home and industrial cleaning sectors, focusing on risk mitigation and operational efficiency.
 
-Created Classes and Obejects using python
+Object-Oriented Programming & Systems Design (Python)
+
+Architected modular code using Classes and Objects to model real-world business entities, improving code reusability and system scalability.
+
+Leveraged OOP principles (Inheritance, Encapsulation) to build organized data structures, reducing redundancy in complex script execution.
+
+Developed custom methods within class frameworks to automate data attribute updates and maintain state across large-scale program execution.
